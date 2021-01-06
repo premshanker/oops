@@ -2,6 +2,7 @@
 //abstract class does not require abstract method but if abstract method 
 //in a class then class
 //must have abstract class. abstract class support construct.
+// Also we can not create object of abstract class
 abstract class Base{
     protected $fname;
     protected $lname;
